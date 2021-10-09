@@ -34,3 +34,4 @@ export default class Popover {
     this.popContainer.style.top = `${window.scrollY + coords.top - this.popContainer.offsetHeight - 5}px`;
   }
 }
+

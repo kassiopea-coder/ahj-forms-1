@@ -39,3 +39,4 @@ test('close popup', () => {
   button.click();
   expect(document.contains(popButton.popContainer)).toBeFalsy();
 });
+
